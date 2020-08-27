@@ -33,7 +33,15 @@ Dodatkowe funkcje w wariancie drugim:
 3.	Schemat:
 
 
+
+
+
+
+
+
 4.	Instrukcja uruchomienia:
+
+Dla obu wariantów
 
 1.	Wgranie kodu przeznaczonego dla mastera na ESP32 z domyślną częstotliwością 240MHz (160MHz dla wariantu drugiego)
 2.	Wgranie kodu przeznaczone dla slaveów na płytki ESP8266 z zmienioną częstotliwością na 160MHz (funkcja tęczy dzięki temu płynniej się wyświetla)
