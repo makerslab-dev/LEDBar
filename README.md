@@ -32,8 +32,10 @@ Dodatkowe funkcje w wariancie drugim:
 
 3.	Schemat:
 
+Schemat buttona w wariancie b)
 
 
+![Button schemat](Pics/Button_schemat.png)
 
 
 
