@@ -12,15 +12,21 @@ Drugi wariant względem pierwszego różni się dodanym buttonem, który po naci
 2.	Funkcje:
 
 ●	Obsługa do 20 płytek ESP8266 pełniących rolę slave
+
 ●	Automatyczne rozgłaszanie adresów MAC przez każdego slave
+
 ●	Automatyczne wyszukiwanie i dodawanie do listy klientów okolicznych slave przez mastera
+
 ●	10 funkcji wyświetlania
+
 ●	Rozgłaszanie sieci o określonym SSID i haśle
+
 ●	Sterowanie listwami LED z poziomu strony internetowej
 
 Dodatkowe funkcje w wariancie drugim:
 
 ●	Button do ponownego uruchamiania serwera WEB
+
 ●	Synchronizacja między masterem a slaveami
 
 3.	Schemat:
