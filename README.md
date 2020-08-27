@@ -5,6 +5,7 @@ Sterowanie listwami LED WS2B12B z poziomu strony internetowej rozgłaszanej popr
 Przygotowano dwa warianty programu:
 
 a)	Master wyłącznie wysyła informacje co mają wyświetlić pozostałe płytki na podstawie danych przesłanych przez stronę.
+
 b)	Master wysyła informacje co maja wyświetlić wszystkie płytki wraz z samym masterem na podstawie danych przesłanych przez stronę.
 
 Drugi wariant względem pierwszego różni się dodanym buttonem, który po naciśnięciu odpala serwer i funkcją do synchronizacji wykonywaną przy każdym loopie. Dodatkowo przez błąd w bibliotece NeoPixel ESP32 prawidłowo wyświetla tylko listwy z maksymalną ilością 33 pikseli. By rozwiązać problem trzeba skorzystać z biblioteki FastLed lub forka biblioteki NeoPixel i przepisać wszystkie funkcje.
