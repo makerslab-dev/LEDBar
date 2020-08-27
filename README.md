@@ -38,7 +38,7 @@ Schemat buttona w wariancie b)
 ![Button schemat](Pics/Button_schemat.png)
 
 
-
+Rezystor 330Ω, kondensator 104
 
 
 4.	Instrukcja uruchomienia:
